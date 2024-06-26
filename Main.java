@@ -3,11 +3,6 @@ import com.codewithkyle.Console;
 
 
 public class Main {
-  final static int monthsPerYear = 12;
-  final static int weeksPerYear = 52;
-  final static int daysPerYear = 365;
-  final static int daysPerWeek = 7;
-
   public static void main(String[] args) {
     int miles = (int) Console.readInput("Enter your desired annual miles: ");
 
